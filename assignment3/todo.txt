@@ -1,4 +1,2 @@
 - shuffle
-- forward crf
-- charts
 - error analysis
